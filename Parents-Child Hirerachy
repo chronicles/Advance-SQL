@@ -3,6 +3,9 @@
   Find all of Mary's ancestors
 **************************************************************/
 
+/*** Source : https://class.stanford.edu/courses/DB/Recursion/SelfPaced/info ***/
+/*** Note : Please register and learn the Recursion concepts. Its really helpful***/
+
 create table ParentOf(parent text, child text);
 
 insert into ParentOf values ('Alice', 'Carol');
