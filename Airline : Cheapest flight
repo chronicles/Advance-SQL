@@ -3,6 +3,9 @@
   Find cheapest way to fly from 'A' to 'B'
 **************************************************************/
 
+/*** Source : https://class.stanford.edu/courses/DB/Recursion/SelfPaced/info ***/
+/*** Note : Please register and learn the Recursion concepts. Its really helpful***/
+
 /*** Use SQL Lite to run the below commands ***/
 create table Flight(orig text, dest text, airline text, cost int);
 
